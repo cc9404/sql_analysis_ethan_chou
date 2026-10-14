@@ -1,7 +1,7 @@
 -- Analyzing top traffic sources
 -- 01_traffic_sources_analysis
 
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 
 SELECT 
  website_sessions.utm_content,
