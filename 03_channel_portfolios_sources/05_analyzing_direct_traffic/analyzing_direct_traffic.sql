@@ -1,4 +1,4 @@
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 /* 
 analyzing_direct_traffic
 pull organic search, direct type in, and paid brand search seesions by month, and show the sessions
