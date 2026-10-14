@@ -1,4 +1,4 @@
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 /*
 impact_of_bid_changes
 pull weekly session volume for gsaerch and bsearch non brand, broke down by device,
