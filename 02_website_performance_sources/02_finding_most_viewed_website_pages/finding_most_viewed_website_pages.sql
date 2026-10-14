@@ -1,5 +1,5 @@
 -- Finding most-viewed website pages, ranked by session volume
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 
 SELECT
 	pageview_url,
