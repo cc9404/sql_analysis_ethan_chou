@@ -1,4 +1,4 @@
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 /*
 building_product_conversion_funnels
 -- ananlyze the conversion funnels from each product page to conversion
