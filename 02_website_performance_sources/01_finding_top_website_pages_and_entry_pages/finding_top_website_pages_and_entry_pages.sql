@@ -1,5 +1,5 @@
 -- finding top website pages and entry pages
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 
 CREATE TEMPORARY TABLE first_pageview
 SELECT
