@@ -1,4 +1,4 @@
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 -- multi_channel_bidding
 /* pull nonbrand conversion rates from session to order for gsearch and bsearch,
 slice the data by device type
