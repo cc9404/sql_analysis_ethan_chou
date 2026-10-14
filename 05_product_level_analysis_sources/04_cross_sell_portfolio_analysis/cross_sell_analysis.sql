@@ -1,4 +1,4 @@
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 /*
 cross_sell_analysis
 compare the month before vs the month after the change.
