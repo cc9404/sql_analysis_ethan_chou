@@ -4,7 +4,7 @@ Goal: Determine whether nonbrand search traffic is generating enough orders by c
 Method: calculate the CVR from session to order and we'll need a CVR of 4% to make numbers work
 */
 
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 
 SELECT
 	COUNT(DISTINCT website_sessions.website_session_id) AS sessions,
