@@ -1,4 +1,4 @@
- USE mavenfuzzyfactory;
+ USE fuzzyfactory;
  
  /*
  -- data for cusotmer service
