@@ -10,7 +10,7 @@ STEP 5: summarizing total sessions and bounced sessions, by LP
 
 */
 
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 -- STEP 1
 -- finding the first instance of /lander-1 to set analysis timeframe
 
