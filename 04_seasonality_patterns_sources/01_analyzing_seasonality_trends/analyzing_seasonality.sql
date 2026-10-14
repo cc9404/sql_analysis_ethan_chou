@@ -1,4 +1,4 @@
- USE mavenfuzzyfactory;
+ USE fuzzyfactory;
  /* analyzing_seasonality
  take a look at 2012's monthly and weekly volume patterns, to see if we can find
  any seasonal trends we should plan for in 2013.
