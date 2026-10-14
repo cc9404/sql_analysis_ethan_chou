@@ -1,4 +1,4 @@
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 /*
 identifying_repeat_visitors
 pull the data on how many of our website vivstors come back for another session?
