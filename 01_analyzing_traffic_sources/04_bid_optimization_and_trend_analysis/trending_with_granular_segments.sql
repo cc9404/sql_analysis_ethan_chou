@@ -4,7 +4,7 @@ analyze weekly trends for both desktop and mobile
 
 */
 
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 
 SELECT
 	MIN(DATE(created_at))AS week_start_date,
