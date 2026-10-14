@@ -4,7 +4,7 @@
 -- STEP 3: counting pageviews for each session, to identify "bounces"
 -- STEP 4: summarizing by counting total sessions and bounced sessions
 
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 
 CREATE TEMPORARY TABLE first_pageviews
 SELECT
