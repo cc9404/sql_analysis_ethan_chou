@@ -1,4 +1,4 @@
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 /*
 analyzing_product_refund_rates
 total numbers of refunds / total number of products sold = refund rate
