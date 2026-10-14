@@ -1,4 +1,4 @@
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 
 /*
 analyzing_repeat_channel_behavior
