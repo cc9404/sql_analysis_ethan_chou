@@ -4,7 +4,7 @@ build a full conversion funnel, analyzing how many customers make it to each ste
 Start with /lander-1 and build the funnel all the way to thank you page.
 */
 
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 
 -- STEP 1: select all pageviews for relevant sessions
 -- STEP 2: identify each pageview as the specific funnel step
