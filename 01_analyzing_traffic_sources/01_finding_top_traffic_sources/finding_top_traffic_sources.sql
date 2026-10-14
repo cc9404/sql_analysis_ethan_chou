@@ -3,7 +3,7 @@
 breakdown by UTM source, campaign and reffering domain
 */
 
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 
 SELECT
 	utm_source,
