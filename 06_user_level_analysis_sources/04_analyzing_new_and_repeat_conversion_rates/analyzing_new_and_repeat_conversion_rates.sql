@@ -1,4 +1,4 @@
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 /*
 analyzing_new_and_repeat_conversion_rates
 */
