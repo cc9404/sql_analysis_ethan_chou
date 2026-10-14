@@ -1,4 +1,4 @@
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 /*
 comparing_channel_characteristic
 learn more about bsearch nonbrand campaign, and pull out the percentage of 
