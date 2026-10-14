@@ -2,7 +2,7 @@
 Bid optimization and trend analysis
 Goal : Understanding the values of various segments of paid traffic, so that we can optimize the marketing budget
 */
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 
 SELECT
     YEAR(created_at),
