@@ -1,4 +1,4 @@
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 /*
 analyzing_time_to_repeat
 understand the minimum, maximum, and average time between the first and second session
