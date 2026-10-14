@@ -1,4 +1,4 @@
-USE mavenfuzzyfactory;
+USE fuzzyfactory;
 /*
 -- impact of new product launch
 analyzing_product_launches
